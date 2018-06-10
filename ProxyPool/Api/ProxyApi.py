@@ -20,7 +20,7 @@ api_list = {
     'get': u'get an usable proxy',
     # 'refresh': u'refresh proxy pool',
     'get_all': u'get all proxy from proxy pool',
-    'delete?proxy=127.0.0.1:8080': u'delete an unable proxy',
+    'delete?proxy=127.0.0.1:6379': u'delete an unable proxy',
     'get_status': u'proxy statistics'
 }
 
